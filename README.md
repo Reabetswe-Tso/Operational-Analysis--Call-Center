@@ -64,8 +64,9 @@ This project is a cost and performance review of the ConnectTel Call Centre. The
 - Longer call durations inflate costs
 - Overtime is not aligned with peak demand periods
 - High escalation handling increases overall call duration
+  
+<img width="1369" height="550" alt="Screenshot (497)" src="https://github.com/user-attachments/assets/4b6c71ef-a56e-4fab-924b-35c50672b5af" />
 
-<img width="1613" height="536" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/4e47b2c2-d078-47c2-866d-348e20eb32ef" />
 
 ## Recommendations
 
