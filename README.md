@@ -52,6 +52,7 @@ This project is a cost and performance review of the ConnectTel Call Centre. The
 ### 2. Overtime vs Demand
 - The **Afternoon shift** receives the most overtime hours
 - The **Morning shift** (highest demand) receives the least overtime — a clear inefficiency
+  
 <img width="1613" height="536" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/19c988e1-6bab-4223-83c4-ed652ac73771" />
 
 ### 3. Team Performance
@@ -64,13 +65,14 @@ This project is a cost and performance review of the ConnectTel Call Centre. The
 - Overtime is not aligned with peak demand periods
 - High escalation handling increases overall call duration
 
+<img width="1613" height="536" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/4e47b2c2-d078-47c2-866d-348e20eb32ef" />
+
 ## Recommendations
 
 - **Train Team B** on efficient call handling to reduce duration and cost per call
 - **Realign overtime** — prioritise Morning and Afternoon shifts where demand is highest
 - **Coach high-escalation agents** to improve first-call resolution
 
-<img width="1613" height="536" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/4e47b2c2-d078-47c2-866d-348e20eb32ef" />
 
 ## Risks and Assumptions
 
